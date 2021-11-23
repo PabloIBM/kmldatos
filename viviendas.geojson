@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84"}},
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::25830"}},
 "features": [
 { "type": "Feature", "properties": { "id": 0, "direccion": "Calle Mallorquins, 8,Valencia,Espa\u00f1a", "promo": "Residencial Mercat Plaza", "vendido": "VERDADERO"}, "geometry": {"type": "Point", "coordinates": [-0.3787, 39.4724, 0.0]}}, 
 { "type": "Feature", "properties": { "id": 1, "direccion": "Calle Cadiz, 10,Valencia,Espa\u00f1a", "promo": "Lotus Ruzafa", "vendido": "VERDADERO"}, "geometry": {"type": "Point", "coordinates": [-0.3749, 39.4637, 0.0]}}, 
