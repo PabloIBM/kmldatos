@@ -1,7 +1,7 @@
 {
 "type": "FeatureCollection",
 "crs": {"type": "name","properties": {"name": "urn:ogc:def:crs:EPSG::25830"}},
-{"features": [
+"features": [
 {"type": "Feature", "properties": {" id:": 0, "direccion": "Calle Mallorquins, 8,Valencia,Espa\u00f1a", "promo": "Residencial Mercat Plaza", "vendido": "VERDADERO"}, "geometry": {"type": "Point", "coordinates": [-0.3787, 39.4724, 0.0]}}, {"type": "Feature", "properties": {" id:": 1, "direccion": "Calle Cadiz, 10,Valencia,Espa\u00f1a", "promo": "Lotus Ruzafa", "vendido": "VERDADERO"}, "geometry": {"type": "Point", "coordinates": [-0.3749, 39.4637, 0.0]}}, 
 {"type": "Feature", "properties": {" id:": 2, "direccion": "Don Juan de Dios Montanyes, 3,Valencia,Espa\u00f1a", "promo": "Edificio Ruzafa", "vendido": "FALSO"}, "geometry": {"type": "Point", "coordinates": [-0.371, 39.4628, 0.0]}}
 ]}
