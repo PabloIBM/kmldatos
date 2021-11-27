@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "barrio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.362509675074756, 39.462511566120604 ], [ -0.360953228452716, 39.463155975748627 ], [ -0.360953228452716, 39.463155975748627 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.362509675074756, 39.463739729907978 ], [ -0.361827195325659, 39.462795865221416 ], [ -0.361827195325659, 39.462795865221416 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.363697877227858, 39.463227997630483 ], [ -0.362509675074756, 39.46373214871651 ], [ -0.362509675074756, 39.46373214871651 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.361404941667945, 39.46416048473958 ], [ -0.362499855222251, 39.463739729907978 ], [ -0.362499855222251, 39.463739729907978 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.361404941667945, 39.464156694166867 ], [ -0.360943408600211, 39.463148394493572 ], [ -0.360943408600211, 39.463148394493572 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.363658597817838, 39.463239369499725 ], [ -0.363398371726456, 39.4628072371613 ], [ -0.363398371726456, 39.4628072371613 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.363403281652709, 39.462811027807518 ], [ -0.362480215517241, 39.462511566120604 ], [ -0.362480215517241, 39.462511566120604 ] ] ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -0.36289264932245, 39.464274201824949 ], [ -0.362504765148503, 39.46373214871651 ], [ -0.362504765148503, 39.46373214871651 ] ] ] } }
+]
+}
